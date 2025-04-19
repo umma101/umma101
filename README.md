@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋my name is Mary
 
 <!--
 **umma101/umma101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
